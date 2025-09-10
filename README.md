@@ -36,10 +36,11 @@ The focus here is on multi-step reasoning and tool chaining:
 💬 Example Interactions
 
    ✅ Example 1 Translate + Math
-        You: `Translate 'Good Morning' into German and then multiply 5 and 6.
-        Bot: 
-            Guten Morgen
-            Result: 30
+		       
+		  You: `Translate 'Good Morning' into German and then multiply 5 and 6.
+		        Bot: 
+		            Guten Morgen
+		            Result: 30
 
 
  ✅ Example 2 — Translate + Math     
